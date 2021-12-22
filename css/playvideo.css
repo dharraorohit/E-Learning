@@ -1,0 +1,44 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+body{
+	background-color: #edeff0;
+}
+header{
+	height: 10vh;
+	background-color: #576366;
+	color: #adb6b9;
+	box-shadow: 2px 2px 5px grey;
+}
+
+#logo{
+	background-color: #adb6b9;
+	display: inline-block;
+	margin: 2px 4px;
+	height: 90%;
+	padding: 0 2%;
+	border-radius: 5px;
+}
+
+main{
+	width: 874px;
+	margin: 10px auto;
+	/*border: solid grey 1px;*/
+	border-radius: 5px;
+	box-shadow: 1px 1px 2px grey;
+}
+
+video{
+	margin: 10px;
+	border: solid grey 1px;
+}
+
+
+.title{
+	vertical-align: top;
+	padding: 10px;
+	color: #222;
+	font-weight: 500;
+}
